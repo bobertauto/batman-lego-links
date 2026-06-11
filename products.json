@@ -1,0 +1,44 @@
+{
+  "tag": "legobatman-20",
+  "handle": "@batman.lego.game",
+  "title": "LEGO Batman — Sets & Game",
+  "bat": "🦇",
+  "tagline": "The game I play and the Batman sets & Batmobiles from my LEGO-vs-movie comparisons.",
+  "sections": [
+    {
+      "name": "🎮 The Game I Play",
+      "products": [
+        { "asin": "B0G6Q5XKGT", "icon": "🎮", "title": "LEGO Batman: Legacy of the Dark Knight — PS5", "desc": "The game from my videos", "active": true },
+        { "asin": "B0G6QNXFG8", "icon": "🎮", "title": "…Legacy of the Dark Knight — Nintendo Switch 2", "desc": "Switch 2 edition", "active": true },
+        { "asin": "B0G6Q8ZHBN", "icon": "🎮", "title": "…Legacy of the Dark Knight — Xbox Series X", "desc": "Deluxe edition", "active": true }
+      ]
+    },
+    {
+      "name": "⚡ Under $20 — Quick Picks",
+      "products": [
+        { "asin": "B0DB83ZBSY", "icon": "🦇", "title": "Batman 8-in-1 Figure 40748", "desc": "Build Batman in 8 movie styles — Dark Knight, '89, BvS, The Batman…", "active": true },
+        { "asin": "B06VVZ8127", "icon": "🧱", "title": "BrickHeadz Batman 41585", "desc": "Classic collectible figure", "active": true },
+        { "asin": "B06VW7YDZS", "icon": "🤡", "title": "BrickHeadz The Joker 41588", "desc": "Pairs with the Batman BrickHeadz", "active": true }
+      ]
+    },
+    {
+      "name": "🚗 Movie Batmobiles ($20–35)",
+      "products": [
+        { "asin": "B0FMZ13CQB", "icon": "🚗", "title": "Batman v Superman Batmobile 76331", "desc": "220 pcs · armored movie car · 2026 release", "active": true },
+        { "asin": "B0FMYXD9NZ", "icon": "🦇", "title": "The Batman Batmobile 76332", "desc": "330 pcs · the 2022 film car · 2026 release", "active": true },
+        { "asin": "B0GRSSXFT8", "icon": "🚙", "title": "Batman & Robin Batmobile 76333", "desc": "272 pcs · 20th-anniversary coin · 2026 release", "active": true }
+      ]
+    },
+    {
+      "name": "🏆 Display & Dream Builds",
+      "products": [
+        { "asin": "B094RDM91Z", "icon": "🏎️", "title": "Batmobile Tumbler 76240", "desc": "The Dark Knight trilogy Tumbler · 2,049 pcs", "active": true },
+        { "asin": "B0FMYYJN1J", "icon": "🦇", "title": "Batman Logo 76330", "desc": "678 pcs · display piece · gold anniversary minifig", "active": true },
+        { "asin": "B0CPYQB38F", "icon": "📺", "title": "Batman: The Animated Series Gotham City 76271", "desc": "Adult build-and-display · iconic BTAS skyline", "active": true }
+      ]
+    }
+  ],
+  "candidates": [
+    { "asin": "", "icon": "🦇", "title": "", "desc": "trending/new LEGO Batman set — promote into a section when in stock", "active": false }
+  ]
+}
